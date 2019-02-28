@@ -54,6 +54,7 @@
  #delivertbl > tbody {
  	font-size: 2rem;
  	font-family: Helvetica;
+ 	max-width: 90%;
  }
 
  #delivertbl > tfoot {

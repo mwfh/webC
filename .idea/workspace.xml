@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09cf83ce-93e4-4ca0-a386-8fa28faf8811" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/storybook/css/table_delivery.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/storybook/css/table_delivery.css" afterDir="false" />
-    </list>
+    <list default="true" id="09cf83ce-93e4-4ca0-a386-8fa28faf8811" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +120,7 @@
       <workItem from="1550583732768" duration="1377000" />
       <workItem from="1551122050512" duration="957000" />
       <workItem from="1551315072253" duration="1620000" />
-      <workItem from="1551350669246" duration="1639000" />
+      <workItem from="1551350669246" duration="1957000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550583776985</created>
@@ -229,11 +227,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551355055663</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Table_Size">
+      <created>1551355367224</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551355367224</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5593000" />
+    <option name="totallyTimeSpent" value="5911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="26" width="1400" height="1000" extended-state="0" />
@@ -279,7 +284,8 @@
     <MESSAGE value="MainMenu2" />
     <MESSAGE value="MainMenu3" />
     <MESSAGE value="MainMenu4" />
-    <option name="LAST_COMMIT_MESSAGE" value="MainMenu4" />
+    <MESSAGE value="Table_Size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table_Size" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webC/.idea/modules.xml" />
