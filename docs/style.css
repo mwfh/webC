@@ -10,3 +10,21 @@ li {
 	margin-bottom: 10px;
 	text-align: center;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  li {
+	list-style: none;
+	border-radius: 10px;
+	box-shadow: 10px 10px 0px 0px black;
+	
+	padding: 10px;
+	border:solid 1px black;
+	min-width: 95%;
+	max-width: 95%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+}
