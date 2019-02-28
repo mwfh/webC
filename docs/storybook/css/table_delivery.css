@@ -27,6 +27,7 @@
 	color:white;
 	line-height: 3rem;
 	text-align: center;
+	font-weight: bold;
 }
  
 
@@ -38,3 +39,30 @@
  .veryimport {
  	background-color: yellow;
  }
+
+
+
+ @media only screen and (max-width: 1200px) {
+
+#delivertbl > thead {
+	background-color: black;
+	font-size: 2rem;
+	color:white;
+	line-height: 3rem;
+} 
+
+ #delivertbl > tbody {
+ 	font-size: 2rem;
+ 	font-family: Helvetica;
+ }
+
+ #delivertbl > tfoot {
+	background-color: black;
+	font-size: 2rem;
+	color:white;
+	line-height: 3rem;
+	text-align: center;
+	font-weight: bold;
+}
+
+}
