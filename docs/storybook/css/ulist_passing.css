@@ -1,0 +1,11 @@
+#criteria > ul > li {
+	list-style: octal;
+	border-radius: 4px;
+	border-color: red;
+	border: solid 1px;
+	max-width: 80%;
+	padding-left: 1em;
+	padding-top: 1rem;
+	padding-bottom:1rem;
+	margin: 1rem;
+}

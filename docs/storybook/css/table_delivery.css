@@ -1,0 +1,40 @@
+#delivertbl {
+	max-width: 95%;
+	min-width: 95%
+}
+
+
+#delivertbl > thead {
+	background-color: black;
+	font-size: 1.5rem;
+	color:white;
+	line-height: 3rem;
+} 
+
+#delivertbl > tbody > tr > td  {
+	padding-right: 1rem;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: rgba(0,120,120,0.8);
+	color:white;
+	font-weight: bold;
+}
+
+#delivertbl > tfoot {
+	background-color: black;
+	font-size: 1.5rem;
+	color:white;
+	line-height: 3rem;
+	text-align: center;
+}
+ 
+
+ #delivertbl > caption {
+ 	font-size: 3rem;
+ 	font-family: Helvetica;
+ }
+
+ .veryimport {
+ 	background-color: yellow;
+ }
