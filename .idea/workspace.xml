@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09cf83ce-93e4-4ca0-a386-8fa28faf8811" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09cf83ce-93e4-4ca0-a386-8fa28faf8811" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -122,6 +120,7 @@
       <workItem from="1550583732768" duration="1377000" />
       <workItem from="1551122050512" duration="957000" />
       <workItem from="1551315072253" duration="1620000" />
+      <workItem from="1551350669246" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550583776985</created>
@@ -193,16 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551316421169</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="MainMenu3">
+      <created>1551350701195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551350701196</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3954000" />
+    <option name="totallyTimeSpent" value="4207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="26" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25739646" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2610947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,21 +247,14 @@
     <MESSAGE value="ReadMe" />
     <MESSAGE value="MainMenu" />
     <MESSAGE value="MainMenu2" />
-    <option name="LAST_COMMIT_MESSAGE" value="MainMenu2" />
+    <MESSAGE value="MainMenu3" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainMenu3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webC/.idea/modules.xml" />
     <entry file="file://$PROJECT_DIR$/webC/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/storybook.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index2.html" />
+    <entry file="file://$PROJECT_DIR$/docs/storybook.txt" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
