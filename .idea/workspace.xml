@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09cf83ce-93e4-4ca0-a386-8fa28faf8811" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/storybook/css/table_delivery.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/storybook/css/table_delivery.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +122,7 @@
       <workItem from="1550583732768" duration="1377000" />
       <workItem from="1551122050512" duration="957000" />
       <workItem from="1551315072253" duration="1620000" />
-      <workItem from="1551350669246" duration="1334000" />
+      <workItem from="1551350669246" duration="1639000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550583776985</created>
@@ -215,11 +215,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551354688915</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="MainMenu4">
+      <created>1551355046904</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551355046904</updated>
+    </task>
+    <task id="LOCAL-00015" summary="MainMenu4">
+      <created>1551355055663</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551355055663</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5288000" />
+    <option name="totallyTimeSpent" value="5593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="26" width="1400" height="1000" extended-state="0" />
