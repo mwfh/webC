@@ -9,12 +9,11 @@ li {
 	max-width: 300px;
 	margin-bottom: 10px;
 	text-align: center;
+
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
+@media only screen and (max-width: 900px) {
+
   li {
 	list-style: none;
 	border-radius: 10px;
@@ -22,8 +21,8 @@ li {
 	
 	padding: 10px;
 	border:solid 1px black;
-	min-width: 95%;
-	max-width: 95%;
+	min-width: 90%;
+	max-width: 90%;
 	margin-bottom: 10px;
 	text-align: center;
 }
